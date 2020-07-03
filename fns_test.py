@@ -99,7 +99,7 @@ elif action=="login":
     login()
 elif action=="restore password":
     password()
-elif action=="is there a check":
+elif action=="check receipt":
     check()
 elif action=="check info":
     get_info()
