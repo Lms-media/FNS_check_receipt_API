@@ -14,6 +14,6 @@ login,
 
 restore password,
 
-is there a check,
+check receipt,
 
-check info.
+receipt info.
