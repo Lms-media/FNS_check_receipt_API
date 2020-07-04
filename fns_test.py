@@ -101,7 +101,7 @@ elif action=="restore password":
     password()
 elif action=="check receipt":
     check()
-elif action=="check info":
+elif action=="receipt info":
     get_info()
 else:
     print("incorrect input")
