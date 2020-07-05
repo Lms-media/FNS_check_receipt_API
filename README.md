@@ -17,3 +17,12 @@ restore password,
 check receipt,
 
 receipt info.
+
+to work correctly, you must install the request library:
+```
+pip install request
+```
+or
+```
+pip3 install request
+```
