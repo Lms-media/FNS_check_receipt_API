@@ -4,7 +4,7 @@ Idea: https://github.com/dmitriybobrovskiy/CheckReceiptSDK
 
 this code is an interpretation of a project from https://github.com/DmitriyBobrovskiy implemented in python.
 
-in the near future there will be a version on kotlin.
+kotlin version: https://github.com/Lms-media/FNS_check_receipt_API_kotlin
 
 there is 5 actions:
 
